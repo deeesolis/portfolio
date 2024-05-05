@@ -1,13 +1,6 @@
 title: Deana Solis
-logo:  https://images.squarespace-cdn.com/content/v1/57378f7cc6fc0814566514ad/1633484961113-BQEJCI7VKPV8B4S3ZQZ0/Deana-Solis.jpg?format=1000w
+logo: /assets/img/logo.png
 description: [draft] portfolio
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-
-#title: Minimal theme
-#logo: /assets/img/logo.png
-#description: Minimal is a theme for GitHub Pages.
-#show_downloads: true
-#google_analytics:
-#theme: jekyll-theme-minimal
