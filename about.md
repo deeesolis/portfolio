@@ -8,12 +8,13 @@ An engineer designs, builds and maintains systems, whether systems of machines o
 
 
 ### gathering knowledge 
-_The path to learning began as the youngest granddaughter of a superintendent of schools in a family of scholars._
+_The path to learning began as the youngest granddaughter of a superintendent of schools in a family of scholars. The expectation was clear:   
+learn what is valued._
 
-- Certified FinOps Professional  |  FinOps Foundation, a project of the Linux Foundation (_2022_)
-- Certified Solution Architect, Associate  |  AWS (_2019_) 
-- Master of Business Administration	 |  Portland State University (_2008_)
-- Bachelor of Arts, Humantiies  |  Washington State University (_1999_)
+- Certified FinOps Professional "|" FinOps Foundation (_2022_)
+- Certified Solution Architect, Associate "|" AWS (_2019_) 
+- Master of Business Administration "|" Portland State University (_2008_)
+- Bachelor of Arts, Humantiies "|" Washington State University (_1999_)
 
 ### lived experience
 
@@ -38,11 +39,11 @@ I consider every role an opportunity to apply knowledge, solve problems, and ser
 
 
 
-Deana Solis is the youngest daughter of Filipino immigrants and the mom of a biracial son.
+Deana Solis is the daughter of Filipino immigrants and the mom of a biracial son.
 
-She is an award winning ambassador of the FinOps Foundation, the professional association dedicated to advancing and supporting the practitioner community in cloud financial management, as well as a volunteer and mentor at Portland Women in Technology, PDXWIT.
+She is an award winning ambassador of a professional association dedicated to advancing and supporting the practitioner community in cloud FinOps. She mentors and volunteers in spaces that seek to acknowledge privilege, confront bias and demand safety for groups that have been historically marginalized and excluded from access to opportunity.
 
-A lifelong learner, she occasionally reflects on the jobs that don't appear on her Linked In profile to reclaim parts of her identity she hid behind a bachelor's degree in humanities and a graduate business degree. 
+Occasionally she revives stories from the jobs that don't appear on her Linked In profile as a means to reclaim the experiences hidden behind formal degrees and certifications. Recruiters told her those jobs did not add value. They did not know her value, so she didn't listen.
 
 
 [home](README.md)
