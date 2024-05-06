@@ -43,3 +43,6 @@ Deana Solis is the youngest daughter of Filipino immigrants and the mom of a bir
 She is an award winning ambassador of the FinOps Foundation, the professional association dedicated to advancing and supporting the practitioner community in cloud financial management, as well as a volunteer and mentor at Portland Women in Technology, PDXWIT.
 
 A lifelong learner, she occasionally reflects on the jobs that don't appear on her Linked In profile to reclaim parts of her identity she hid behind a bachelor's degree in humanities and a graduate business degree. 
+
+
+[home](README.md)
