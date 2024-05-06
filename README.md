@@ -1,12 +1,17 @@
-# a watcher of clouds
+# Portfolio
 
-#### engineer  |   cloud & culture
+<!-- #### _a descendant of scholars unlearning the falsehoods of education_ -->
 
+### Education  
 
-### gathering knowledge 
-- certificate | source (_date_)								       		
-- degree	| institution (_date_)	 			        		
-- lived learning | the story (_era_)
+### Work Experience  
 
+### Projects  
 
-this is a generative space. thoughtful, intentional, creative solutions to challenging, incomplete systems are held here. 
+### Talks & Lectures  
+
+### Publications  
+
+### Media
+
+### [About](about)
