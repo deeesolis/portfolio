@@ -10,6 +10,8 @@
 >talks and lectures
 
 >influence
+democracy
+womens reproductive rights
 -->
 
 ### Education  

@@ -37,7 +37,11 @@ _Before becoming a cloud practitioner, every role was an opportunity to apply kn
 >
 >***IT titles through 2014***  
 >
->help desk tech  |  broadband technician  |  network field engineer  |  system administrator  |  system analyst  |  system engineer  |  infrastructure management consultant  |  team lead  |  project lead  |  project manager  |  disaster recovery engineer  |  service delivery manager  |  incident response manager  
+>help desk tech  |  broadband technician  |  network field engineer  
+>system administrator  |  system analyst  |  system engineer  
+>infrastructure management consultant  |  team lead  |  project lead  
+>project manager  |  disaster recovery engineer  
+>service delivery manager  |  incident response manager  
 
 _From 2001 through 2014, I navigated through technical roles in healthcare. My first promotion, aside from merit and seniority, was from service and support to professional services in 2005. It is no accident. My professional growth was catalyzed in the period when my hospital employer was adopting a digital transformation and had outsourced its technology and application service departments._
 >***working student titles through 1998***  
