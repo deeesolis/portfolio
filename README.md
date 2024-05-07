@@ -8,6 +8,7 @@
 >- milestones
 >- catalysts
 >talks and lectures
+badges
 
 >influence
 democracy
