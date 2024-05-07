@@ -19,10 +19,31 @@ learn what is valued._
 | Master of Business Administration       | Portland State University  | (_2008_)  
 | Bachelor of Arts, Humantiies     | Washington State University  | (_1999_)   
 
-### lived experience
 
-_From retail electronics to digital transformation in healthcare, to the practice of cloud FinOps, I have been selected for roles that were yet to be defined when I was hired. 
-I consider every role an opportunity to apply knowledge, solve problems, and serve community._ 
+_One way to observe the evolution of Information Technology is by the financial investment patterns of the organizations adopting technology transformation. For over two decades, IT has often been at the epicenter of organizational change._
+|subject matter expertise           |   |since   | 
+|-----------------------------------------|---|---|
+| FinOps, DevOps, Agile            |    | _2019_  
+| Data Center Ops, Business Continuity |    | 2008  
+| Waterfall Project Management, PMBOK Project Valuation       |   | 2005  
+| Lean Management, TPS Kaizen    |   | 1999
+
+### experience from a previous life
+
+_From retail electronics to digital transformation in healthcare, to the practice of cloud FinOps, the roles that found me were rarely the ones I planned for.   
+I consider every role an opportunity to apply knowledge, solve problems, and serve community._
+
+|titles held as a working student from the age of 16           |   |    
+|-----------------------------------------|---
+| clerk, fabric cutter, cashier, telemarketer
+| direct marketer,  fundraiser, sales counselor
+|
+In my junior year in the School of Liberal Arts at Cal Poly, Pomona, my part-time sales income exceeded the prospective offers garnered by many of my graduating peers. Accepting an offer to enter a management training program seemed the obvious career decision. I took the opportunity, relocated to the Pacific Northwest, and grand-open eight stores for two electronics retailers. I wouldn't trade that six years of grind and hustle, and acute focus on service excellence. 
+|
+The old millennium was running out. My 5600k baud modem gave me blazing fast dial-up internet. Change was coming and I was ready for it. I enrolled for two semesters to finish my undergraduate work
+
+
+
 
 <!--  >  [draft] role | context (_era_)
 >  
