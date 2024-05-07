@@ -21,6 +21,8 @@ learn what is valued._
 
 
 _One way to observe the evolution of Information Technology is by the financial investment patterns of the organizations adopting technology transformation. For over two decades, IT has often been at the epicenter of organizational change._
+
+
 |subject matter expertise           |   |since   | 
 |-----------------------------------------|---|---|
 | FinOps, DevOps, Agile            |    | _2019_  
@@ -32,6 +34,7 @@ _One way to observe the evolution of Information Technology is by the financial 
 
 _From retail electronics to digital transformation in healthcare, to the practice of cloud FinOps, the roles that found me were rarely the ones I planned for.   
 I consider every role an opportunity to apply knowledge, solve problems, and serve community._
+
 
 |titles held as a working student from the age of 16           |   |    
 |-----------------------------------------|---
