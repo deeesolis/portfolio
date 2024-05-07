@@ -14,7 +14,7 @@ democracy
 womens reproductive rights
 -->
 
-### Education  
+### <span style="color:647473">Education</span>
 
 ### Work Experience  
 
