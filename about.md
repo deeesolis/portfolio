@@ -36,13 +36,13 @@ _From retail electronics to digital transformation in healthcare, to the practic
 I consider every role an opportunity to apply knowledge, solve problems, and serve community._
 
 
-|titles held as a working student from the age of 16  |    
-|-----------------------------------------------------|
-| clerk, fabric cutter, cashier, telemarketer |
-| direct marketer,  fundraiser, sales counselor|
-|
+|titles held as a working student from the age of 16  |||    
+|-----------------------------------------------------|---|---|
+| clerk, fabric cutter, cashier, telemarketer |||
+| direct marketer,  fundraiser, sales counselor|||
+|||
 In my junior year in the School of Liberal Arts at Cal Poly, Pomona, my part-time sales income exceeded the prospective offers garnered by many of my graduating peers. Accepting an offer to enter a management training program seemed the obvious career decision. I took the opportunity, relocated to the Pacific Northwest, and grand-open eight stores for two electronics retailers. I wouldn't trade that six years of grind and hustle, and acute focus on service excellence. 
-|
+|||
 The old millennium was running out. My 5600k baud modem gave me blazing fast dial-up internet. Change was coming and I was ready for it. I enrolled for two semesters to finish my undergraduate work
 
 
