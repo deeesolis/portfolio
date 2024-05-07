@@ -14,7 +14,7 @@ democracy
 womens reproductive rights
 -->
 
-### <span style="color:647473">Education</span>
+### <span style="color:#647473">Education
 
 ### Work Experience  
 
@@ -24,6 +24,6 @@ womens reproductive rights
 
 ### Publications  
 
-### Media
+### Media</span>
 
 ### [About](about)
