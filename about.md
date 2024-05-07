@@ -11,10 +11,13 @@ An engineer designs, builds and maintains systems, whether systems of machines o
 _The path to learning began as the youngest granddaughter of a superintendent of schools in a family of scholars. The expectation was clear:   
 learn what is valued._
 
-- Certified FinOps Professional "|" FinOps Foundation (_2022_)
-- Certified Solution Architect, Associate "|" AWS (_2019_) 
-- Master of Business Administration "|" Portland State University (_2008_)
-- Bachelor of Arts, Humantiies "|" Washington State University (_1999_)
+
+|           |   |   | 
+|-----------------------------------------|---|---|
+| Certified FinOps Professional           |FinOps Foundation    | (_2022_)  
+| Certified Solution Architect, Associate | AWS   | (_2019_)  
+| Master of Business Administration       | Portland State University  | (_2008_)  
+| Bachelor of Arts, Humantiies     | Washington State University  | (_1999_)   
 
 ### lived experience
 
