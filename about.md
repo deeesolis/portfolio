@@ -9,7 +9,7 @@ More than a title, I am an engineer who designs, builds and stewards systems, wh
 
 ### gathering knowledge 
 _The path to learning began as the youngest granddaughter of a superintendent of schools in a family of scholars. The expectation was clear:   
-learn what is valued; ***learn like a machine***._
+learn what is valued; **learn like a machine**._
 
 
 |           |   |   | 
@@ -39,7 +39,7 @@ _Before becoming a cloud practitioner, every role was an opportunity to apply kn
 >
 >help desk tech  |  broadband technician  |  network field engineer  
 >system administrator  |  system analyst  |  system engineer  
->infrastructure management consultant  |  team lead  |  project lead  
+>infrastructure management consultant  |  team lead  |  technical project lead  
 >project manager  |  disaster recovery engineer  
 >service delivery manager  |  incident response manager  
 
