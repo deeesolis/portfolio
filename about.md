@@ -1,10 +1,10 @@
-# A watcher of clouds
+# engineer  |   cloud & culture
 
-is a curious being. She imagines connections and representations of patterns from a distant, limited perspective. Curiosity alone solves few of her problems. Although observation, rigorously practiced, has taught her to predict storms and importantly, rainbows as well. 
+More than a title, I am an engineer who designs, builds and maintains systems, whether systems of machines or of human relations. 
 
-#### engineer  |   cloud & culture
-
-An engineer designs, builds and maintains systems, whether systems of machines or of human relations. A system is complex in its number of components and the mechanics between them.  
+>### a watcher of clouds
+>
+>_is a curious being. She imagines connections and representations of patterns from a distant, limited perspective. Curiosity alone solves few of her problems. Although observation, rigorously practiced, has taught her to predict storms and importantly, rainbows as well._ 
 
 
 ### gathering knowledge 
@@ -20,7 +20,7 @@ learn what is valued._
 | Bachelor of Arts, Humantiies     | Washington State University  | (_1999_)   
 
 
-_One way to observe the evolution of Information Technology is by the financial investment patterns of the organizations adopting technology transformation. For over two decades, IT has often been at the epicenter of organizational change._
+_I observed the evolution of Information Technology by the financial investment patterns of the organizations adopting technology transformation. For over two decades, IT roles put me at the epicenter of organizational change._
 
 
 |subject matter expertise           |   |since   | 
@@ -30,36 +30,25 @@ _One way to observe the evolution of Information Technology is by the financial 
 | Waterfall Project Management, PMBOK Project Valuation       |   | 2005  
 | Lean Management, TPS Kaizen    |   | 1999
 
-### experience from a previous life
+### previous life
 
-_From retail electronics to digital transformation in healthcare, to the practice of cloud FinOps, the roles that found me were rarely the ones I planned for.   
-I consider every role an opportunity to apply knowledge, solve problems, and serve community._
+_Before my titles in healthcare digital transformation, and even longer before becoming a cloud practitioner, every role was an opportunity to apply knowledge, solve problems, and serve community._
 
 
-|working student from the age of 16  |  |  |    
+|           |   |   | 
+|---------------------------------------------|---|---|
+|            |   |
+|**working student from the age of 16**  |  |  
+|clerk, fabric cutter, cashier, telemarketer |  |  |
+|direct marketer,  fundraiser, sales counselor|  |  |
+
+
+|           |   |   | 
 |-----------------------------------------------------|---|---|
-| clerk, fabric cutter, cashier, telemarketer |  |  |
-| direct marketer,  fundraiser, sales counselor|  |  |
-|-----------------------------------------------------|---|---|
-In my junior year in the School of Liberal Arts at Cal Poly, Pomona, my part-time sales income exceeded the prospective offers garnered by many of my graduating peers. Accepting an offer to enter a management training program seemed the obvious career decision. I took the opportunity, relocated to the Pacific Northwest, and grand-open eight stores for two electronics retailers. I wouldn't trade that six years of grind and hustle, and acute focus on service excellence. 
-|-----------------------------------------------------|---|---|
-The old millennium was running out. My 5600k baud modem gave me blazing fast dial-up internet. Change was coming and I was ready for it. I enrolled for two semesters to finish my undergraduate work
+|In my junior year in the School of Liberal Arts at Cal Poly, Pomona, my part-time sales income exceeded the prospective offers garnered by many of my graduating peers. Accepting an offer to enter a management training program seemed the obvious career decision. I took the opportunity, relocated to the Pacific Northwest, and grand-open eight stores for two electronics retailers. I wouldn't trade that six years of grind and hustle, and acute focus on service excellence. 
+|The old millennium was running out. My 5600k baud modem gave me blazing fast dial-up internet. Change was coming and I was ready for it. I enrolled for two semesters to finish my undergraduate work
 
 
-
-
-<!--  >  [draft] role | context (_era_)
->  
->     projects
->- generated value
->- milestones
->- catalysts
-
-
->talks and lectures
-
->influence
--->
 ### unlearning
 
 <!--  this is a generative space. thoughtful, intentional, creative solutions to challenging, incomplete systems are held here.  -->
