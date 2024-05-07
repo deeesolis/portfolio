@@ -32,15 +32,16 @@ _I observed the evolution of Information Technology by the financial investment 
 
 ### previous life
 
-_Before my titles in healthcare digital transformation, and even longer before becoming a cloud practitioner, every role was an opportunity to apply knowledge, solve problems, and serve community._
+_Before my titles in healthcare digital transformation, and even longer before becoming a cloud practitioner, every role was an opportunity to apply knowledge, solve problems, and connect with people._
 
->###working student from the age of 16
->>clerk, fabric cutter, cashier, telemarketer  
->>direct marketer,  fundraiser, sales counselor
+>***working student, from the age of 16 to 20***  
 >
->In my junior year in the School of Liberal Arts at Cal Poly, Pomona, my part-time sales income exceeded the prospective offers garnered by many of my graduating peers. Accepting an offer to enter a management training program seemed the obvious career decision. I took the opportunity, relocated to the Pacific Northwest, and grand-open eight stores for two electronics retailers. I wouldn't trade that six years of grind and hustle, and acute focus on service excellence. 
+>clerk  |  fabric cutter  |  cashier  |  telemarketer  
+>direct marketer  |  fundraiser  |  sales counselor
 >
->The old millennium was running out. My 5600k baud modem gave me blazing fast dial-up internet. Change was coming and I was ready for it. I enrolled for two semesters to finish my undergraduate work
+>_In my junior year in the School of Liberal Arts at Cal Poly, Pomona, my part-time sales income exceeded the prospective offers garnered by many of my graduating peers. Accepting an offer to enter a management training program seemed the obvious career decision. I took the opportunity, relocated to the Pacific Northwest, and grand-open eight stores for two electronics retailers. I wouldn't trade that seven years of grind, hustle, and acute focus on service excellence. Until it burned me out._ 
+>
+>_The old millennium was running out. My 5600k baud modem gave me blazing fast dial-up internet. Change was coming and I was ready for it. I enrolled for two semesters to finish my undergraduate work._
 
 
 ### unlearning
