@@ -4,7 +4,7 @@ title: "Deana Solis"
 description: > # this means to ignore newlines until "baseurl:"
   island woman rise
 baseurl: "old_index.html" # the subpath of your site, e.g. /blog/
-url: "https://deeesolis.github.io/portfolio/" # the base hostname & protocol for your site
+url: "https://deeesolis.github.io/portfolio" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  deeesolis
 
