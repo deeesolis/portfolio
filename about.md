@@ -70,4 +70,4 @@ She is an award winning ambassador of a professional association dedicated to ad
 Occasionally she revives stories from the jobs that don't appear on her Linked In profile as a means to reclaim the experiences hidden behind formal degrees and certifications. Recruiters told her those jobs did not add value. They did not know her value, so she didn't listen.
 
 
-[home](README.md)
+[home](https://deeesolis.github.io/portfolio/)
