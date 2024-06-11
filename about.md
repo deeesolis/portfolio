@@ -65,7 +65,9 @@ _The old millennium was running out. My 5600k baud modem gave me blazing fast di
 
 Deana Solis is the daughter of Filipino immigrants and the mom of a biracial son.
 
-She is an award winning ambassador of a professional association dedicated to advancing and supporting the practitioner community in cloud FinOps. She mentors and volunteers in spaces that seek to acknowledge privilege, confront bias and demand safety for people who have been historically marginalized and excluded from access to opportunity.
+Before she was an award winning FinOps [ambassador](https://www.finops.org/about/ambassadors-info/), she had to unlearn a few things she had internalized about success, fortune, and power. 
+
+She mentors and volunteers in spaces that seek to acknowledge privilege, confront bias and demand safety for people who have been historically marginalized and excluded from access to opportunity.
 
 Occasionally she revives stories from the jobs that don't appear on her Linked In profile as a means to reclaim the experiences hidden behind formal degrees and certifications. Recruiters told her those jobs did not add value. They did not know her value, so she didn't listen.
 
